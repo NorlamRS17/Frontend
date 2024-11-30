@@ -18,7 +18,7 @@ Primero se debe inicar el backend para el funcionamiento adecuado de este.
    ```bash
    npm install
    ```
-3. Iniciar frontend
+3. Una vez iniciado el backend, ejecutamos el siguiente comando para el funcionamiento correcto de la aplicación
    ```bash
    npm start
    ```
