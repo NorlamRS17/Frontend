@@ -2,9 +2,9 @@
 
 ## Instalación
 
-Crear una carpeta en la cual se debera clonar tanto el backend como el frontend
+Crear una carpeta en la cual se debera clonar tanto el backend como el frontend.
 
-Primero se debe inicar el backend para el funcionamiento adecuado
+Primero se debe inicar el backend para el funcionamiento adecuado de este.
 
 1. Dentro de la carpeta Clona este repositorio:
    ```bash
