@@ -4,6 +4,8 @@
 
 Crear una carpeta en la cual se debera clonar tanto el backend como el frontend
 
+Primero se debe inicar el backend para el funcionamiento adecuado
+
 1. Dentro de la carpeta Clona este repositorio:
    ```bash
    git clone https://github.com/NorlamRS17/Crypto-Frontend.git
